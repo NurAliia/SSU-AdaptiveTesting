@@ -1,0 +1,128 @@
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Sgu.StudentTesting.BLL.dll.config
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Sgu.StudentTesting.BLL.dll
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Sgu.StudentTesting.BLL.pdb
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Common.dll
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Ninject.dll
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Ninject.Web.Common.dll
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Ninject.Web.Common.WebHost.dll
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Sgu.StudentTesting.BLL.Contracts.dll
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Sgu.StudentTesting.DAL.Contracts.dll
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.Helpers.dll
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.Mvc.dll
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.Razor.dll
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.WebPages.dll
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Common.pdb
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Sgu.StudentTesting.BLL.Contracts.pdb
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Sgu.StudentTesting.BLL.Contracts.dll.config
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Sgu.StudentTesting.DAL.Contracts.pdb
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Sgu.StudentTesting.DAL.Contracts.dll.config
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Ninject.xml
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Ninject.Web.Common.xml
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Ninject.Web.Common.WebHost.xml
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.Helpers.xml
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.Mvc.xml
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.Razor.xml
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.WebPages.xml
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.WebPages.Razor.xml
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\ru\System.Web.Helpers.resources.dll
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\ru\System.Web.Mvc.resources.dll
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\ru\System.Web.Razor.resources.dll
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\ru\System.Web.WebPages.resources.dll
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\obj\Release\Sgu.StudentTesting.BLL.csprojResolveAssemblyReference.cache
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\obj\Release\Sgu.StudentTesting.BLL.dll
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.BLL\obj\Release\Sgu.StudentTesting.BLL.pdb
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Sgu.StudentTesting.BLL.dll.config
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Sgu.StudentTesting.BLL.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Sgu.StudentTesting.BLL.pdb
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Common.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Ninject.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Ninject.Web.Common.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Ninject.Web.Common.WebHost.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Sgu.StudentTesting.BLL.Contracts.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Sgu.StudentTesting.DAL.Contracts.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.Helpers.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.Mvc.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.Razor.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.WebPages.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Common.pdb
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Sgu.StudentTesting.BLL.Contracts.pdb
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Sgu.StudentTesting.BLL.Contracts.dll.config
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Sgu.StudentTesting.DAL.Contracts.pdb
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Sgu.StudentTesting.DAL.Contracts.dll.config
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Ninject.xml
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Ninject.Web.Common.xml
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Ninject.Web.Common.WebHost.xml
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.Helpers.xml
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.Mvc.xml
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.Razor.xml
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.WebPages.xml
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.WebPages.Razor.xml
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\ru\System.Web.Helpers.resources.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\ru\System.Web.Mvc.resources.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\ru\System.Web.Razor.resources.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\ru\System.Web.WebPages.resources.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\obj\Release\Sgu.StudentTesting.BLL.csprojResolveAssemblyReference.cache
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\obj\Release\Sgu.StudentTesting.BLL.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\obj\Release\Sgu.StudentTesting.BLL.pdb
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\AdaptiveTesting.Entities.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\FANNCSharp.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\EntityFramework.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\AdaptiveTesting.Entities.pdb
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\AdaptiveTesting.Entities.dll.config
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\EntityFramework.xml
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Sgu.StudentTesting.BLL.dll.config
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Sgu.StudentTesting.BLL.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Sgu.StudentTesting.BLL.pdb
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\AdaptiveTesting.Entity.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Common.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\FANNCSharp.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Ninject.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Ninject.Web.Common.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Ninject.Web.Common.WebHost.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Sgu.StudentTesting.BLL.Contracts.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Sgu.StudentTesting.DAL.Contracts.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.Helpers.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.Mvc.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.Razor.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.WebPages.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\AdaptiveTesting.Entity.pdb
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\AdaptiveTesting.Entity.dll.config
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Common.pdb
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Sgu.StudentTesting.BLL.Contracts.pdb
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Sgu.StudentTesting.BLL.Contracts.dll.config
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Sgu.StudentTesting.DAL.Contracts.pdb
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Sgu.StudentTesting.DAL.Contracts.dll.config
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Ninject.xml
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Ninject.Web.Common.xml
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\Ninject.Web.Common.WebHost.xml
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.Helpers.xml
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.Mvc.xml
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.Razor.xml
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.WebPages.xml
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\System.Web.WebPages.Razor.xml
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\ru\System.Web.Helpers.resources.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\ru\System.Web.Mvc.resources.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\ru\System.Web.Razor.resources.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\ru\System.Web.WebPages.resources.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\bin\Release\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\obj\Release\Sgu.StudentTesting.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\obj\Release\Sgu.StudentTesting.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\obj\Release\Sgu.StudentTesting.BLL.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.BLL\obj\Release\Sgu.StudentTesting.BLL.pdb

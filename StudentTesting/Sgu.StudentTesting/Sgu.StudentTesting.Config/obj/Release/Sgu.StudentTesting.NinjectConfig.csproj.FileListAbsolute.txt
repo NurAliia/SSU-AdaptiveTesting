@@ -1,0 +1,77 @@
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.Config.dll.config
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.Config.dll
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.Config.pdb
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Ninject.dll
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.BLL.Contracts.dll
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.BLL.dll
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.DAL.dll
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Common.dll
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.DAL.Contracts.dll
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.BLL.Contracts.pdb
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.BLL.Contracts.dll.config
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.BLL.pdb
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.BLL.dll.config
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.DAL.pdb
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.DAL.dll.config
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Ninject.xml
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Common.pdb
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.DAL.Contracts.pdb
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.DAL.Contracts.dll.config
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.Config\obj\Release\Sgu.StudentTesting.NinjectConfig.csprojResolveAssemblyReference.cache
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.Config\obj\Release\Sgu.StudentTesting.Config.dll
+C:\Users\NurAliya\Documents\Visual Studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.Config\obj\Release\Sgu.StudentTesting.Config.pdb
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.Config.dll.config
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.Config.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.Config.pdb
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Ninject.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.BLL.Contracts.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.BLL.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.DAL.Contracts.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.DAL.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Common.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.BLL.Contracts.pdb
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.BLL.Contracts.dll.config
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.BLL.pdb
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.BLL.dll.config
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.DAL.Contracts.pdb
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.DAL.Contracts.dll.config
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.DAL.pdb
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.DAL.dll.config
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Ninject.xml
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Common.pdb
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\obj\Release\Sgu.StudentTesting.NinjectConfig.csprojResolveAssemblyReference.cache
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\obj\Release\Sgu.StudentTesting.Config.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\obj\Release\Sgu.StudentTesting.Config.pdb
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\AdaptiveTesting.Entities.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\FANNCSharp.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\EntityFramework.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\AdaptiveTesting.Entities.pdb
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\AdaptiveTesting.Entities.dll.config
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\EntityFramework.xml
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.Config.dll.config
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.Config.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.Config.pdb
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\FANNCSharp.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Ninject.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.BLL.Contracts.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.BLL.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.DAL.Contracts.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.DAL.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\AdaptiveTesting.Entity.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Common.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.BLL.Contracts.pdb
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.BLL.Contracts.dll.config
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.BLL.pdb
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.BLL.dll.config
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.DAL.Contracts.pdb
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.DAL.Contracts.dll.config
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.DAL.pdb
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Sgu.StudentTesting.DAL.dll.config
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Ninject.xml
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\AdaptiveTesting.Entity.pdb
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\AdaptiveTesting.Entity.dll.config
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\bin\Release\Common.pdb
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\obj\Release\Sgu.StudentTesting.NinjectConfig.csprojResolveAssemblyReference.cache
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\obj\Release\Sgu.StudentTesting.NinjectConfig.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\obj\Release\Sgu.StudentTesting.Config.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.Config\obj\Release\Sgu.StudentTesting.Config.pdb

@@ -1,0 +1,147 @@
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Sgu.StudentTesting.DAL.Contracts.dll.config
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Sgu.StudentTesting.DAL.Contracts.dll
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Sgu.StudentTesting.DAL.Contracts.pdb
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Common.dll
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Ninject.dll
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Ninject.Web.Common.dll
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Ninject.Web.Common.WebHost.dll
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.Helpers.dll
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.Mvc.dll
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.Razor.dll
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.WebPages.dll
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Common.pdb
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Ninject.xml
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Ninject.Web.Common.xml
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Ninject.Web.Common.WebHost.xml
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.Helpers.xml
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.Mvc.xml
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.Razor.xml
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.WebPages.xml
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\obj\Debug\Sgu.StudentTesting.DAL.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\obj\Debug\Sgu.StudentTesting.DAL.Contracts.dll
+C:\Users\NurAliya\documents\visual studio 2017\Projects\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\obj\Debug\Sgu.StudentTesting.DAL.Contracts.pdb
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Sgu.StudentTesting.DAL.Contracts.dll.config
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Sgu.StudentTesting.DAL.Contracts.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Sgu.StudentTesting.DAL.Contracts.pdb
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Common.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Ninject.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Ninject.Web.Common.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Ninject.Web.Common.WebHost.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.Helpers.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.Mvc.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.Razor.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.WebPages.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Common.pdb
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Ninject.xml
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Ninject.Web.Common.xml
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Ninject.Web.Common.WebHost.xml
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.Helpers.xml
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.Mvc.xml
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.Razor.xml
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.WebPages.xml
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\obj\Debug\Sgu.StudentTesting.DAL.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\obj\Debug\Sgu.StudentTesting.DAL.Contracts.dll
+C:\Users\NurAliya\Documents\SGU-StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\obj\Debug\Sgu.StudentTesting.DAL.Contracts.pdb
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Sgu.StudentTesting.DAL.Contracts.dll.config
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Sgu.StudentTesting.DAL.Contracts.dll
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Sgu.StudentTesting.DAL.Contracts.pdb
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Common.dll
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\FANNCSharp.dll
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Ninject.dll
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Ninject.Web.Common.dll
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Ninject.Web.Common.WebHost.dll
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Ninject.Web.Mvc.dll
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.Helpers.dll
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.Mvc.dll
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.Razor.dll
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.WebPages.dll
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.WebPages.Razor.dll
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Common.pdb
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Ninject.xml
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Ninject.Web.Common.xml
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Ninject.Web.Common.WebHost.xml
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Ninject.Web.Mvc.xml
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.Helpers.xml
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.Mvc.xml
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.Razor.xml
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.WebPages.xml
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.WebPages.Razor.xml
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\ru\System.Web.Helpers.resources.dll
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\ru\System.Web.Mvc.resources.dll
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\ru\System.Web.Razor.resources.dll
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\ru\System.Web.WebPages.resources.dll
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\obj\Debug\Sgu.StudentTesting.DAL.Contracts.csprojResolveAssemblyReference.cache
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\obj\Debug\Sgu.StudentTesting.DAL.Contracts.csproj.CoreCompileInputs.cache
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\obj\Debug\Sgu.StudentTesting.DAL.Contracts.dll
+E:\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\obj\Debug\Sgu.StudentTesting.DAL.Contracts.pdb
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Sgu.StudentTesting.DAL.Contracts.dll.config
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Sgu.StudentTesting.DAL.Contracts.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Sgu.StudentTesting.DAL.Contracts.pdb
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Common.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\FANNCSharp.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Ninject.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Ninject.Web.Common.WebHost.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.Helpers.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.Mvc.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.Razor.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.WebPages.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\AdaptiveTesting.Entity.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Common.pdb
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Ninject.xml
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Ninject.Web.Common.WebHost.xml
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.Helpers.xml
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.Mvc.xml
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.Razor.xml
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.WebPages.xml
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\AdaptiveTesting.Entity.pdb
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\AdaptiveTesting.Entity.dll.config
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\obj\Debug\Sgu.StudentTesting.DAL.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\obj\Debug\Sgu.StudentTesting.DAL.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\obj\Debug\Sgu.StudentTesting.DAL.Contracts.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\Sgu.StudentTesting.DAL.Contracts\obj\Debug\Sgu.StudentTesting.DAL.Contracts.pdb

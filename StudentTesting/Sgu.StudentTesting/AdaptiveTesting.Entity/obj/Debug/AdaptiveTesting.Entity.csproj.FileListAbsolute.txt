@@ -1,0 +1,14 @@
+E:\StudentTesting\Sgu.StudentTesting\AdaptiveTesting.Entity\obj\Debug\AdaptiveTesting.Entity.csprojResolveAssemblyReference.cache
+E:\StudentTesting\Sgu.StudentTesting\AdaptiveTesting.Entity\obj\Debug\AdaptiveTesting.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\AdaptiveTesting.Entity\bin\Debug\AdaptiveTesting.Entity.dll.config
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\AdaptiveTesting.Entity\bin\Debug\AdaptiveTesting.Entity.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\AdaptiveTesting.Entity\bin\Debug\AdaptiveTesting.Entity.pdb
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\AdaptiveTesting.Entity\bin\Debug\EntityFramework.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\AdaptiveTesting.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\AdaptiveTesting.Entity\bin\Debug\FANNCSharp.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\AdaptiveTesting.Entity\bin\Debug\EntityFramework.xml
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\AdaptiveTesting.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\AdaptiveTesting.Entity\obj\Debug\AdaptiveTesting.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\AdaptiveTesting.Entity\obj\Debug\AdaptiveTesting.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\AdaptiveTesting.Entity\obj\Debug\AdaptiveTesting.Entity.dll
+C:\Users\Татьяна\Desktop\StudentTesting\Sgu.StudentTesting\AdaptiveTesting.Entity\obj\Debug\AdaptiveTesting.Entity.pdb
